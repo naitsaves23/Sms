@@ -16,7 +16,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 init()
 GREEN = Fore.GREEN
 RED = Fore.RED
-print("ponga el numero gay")
+print("ponga el numero gay cacorro")
 def main():
     phone = int(Write.Input("[*] Enter number of the victim : ",Colors.red))
     print(f">>> {phone}")
